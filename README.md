@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-18%2B-brightgreen" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-4.x-blue" alt="Express.js">
+  <img src="https://img.shields.io/badge/TypeScript-4.x-blue" alt="TypeScript">
+  <img src="https://img.shields.io/badge/OracleDB-XE%2021c%2B-orange" alt="OracleDB">
+  <img src="https://img.shields.io/badge/pnpm-10%2B-yellow" alt="pnpm">
+</p>
+
 # 🚀 React Systems Backend
 
 A modern backend for the **React Systems** project, built with **Node.js**, **Express**, **TypeScript**, and **Oracle Database**. This server provides RESTful API endpoints to power the frontend React application.
