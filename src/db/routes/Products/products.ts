@@ -1,6 +1,6 @@
 import express from "express";
 import oracledb from "oracledb"; // <-- ✅ Add this line
-import { getDbConnection } from "../db";
+import { getDbConnection } from "../../db";
 
 const router = express.Router();
 
