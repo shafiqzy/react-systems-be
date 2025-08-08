@@ -11,8 +11,8 @@ const port = process.env.PORT || 3001;
 app.use(express.json());
 
 // ✅ Register routes
-app.use("/api", productsRouter);
-app.use("/api", dashboardRouter);
+app.use("/", productsRouter);
+app.use("/", dashboardRouter);
 
 app.listen(port, () => {
   console.log(`🚀 Server is running at http://localhost:${port}`);
